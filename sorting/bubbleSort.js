@@ -15,10 +15,3 @@ function BubbleSort(array) {
     }
     return array;
 }
-
-console.log(BubbleSort([0, 3, 4, -1, 5, 11]));
-console.log(BubbleSort([-0, -3, -4, -1, -5, -11]));
-console.log(BubbleSort([]));
-console.log(BubbleSort([4]));
-console.log(BubbleSort([0, 0, 0, 0, 0, 0]));
-console.log(BubbleSort([0, 0, 0, 0, 0, 0]));
